@@ -1,6 +1,6 @@
 publish:
     docker:
-        repo: wizni/himanshu28_express-angular
+        repo: wizehub/himanshu28_express-angular
         username: $$DOCKER_USER
         password: $$DOCKER_PASS
         email: $$DOCKER_EMAIL
