@@ -1,1 +1,22 @@
-eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhHQ00ifQ.miJBOHA-ufQZuJ3Q43nUFAhrUILt5u5IVB5mnYgz4De1V9cTiKVyy-7Fu_jfsc461QnWvnsuOQwnxO4ej-6mgZS3uikkfqSg96dvOpcJ7ujJKwoA3cVO2dBjyw2fI0dRR7CZsqD9fg8ix9gAmODlPO-aqbxPDXIF8eAJX0oAoNUAD5SXSYGOFTlBI6pq14tuvoWjXbnQvQ73W9OWVPAX6llQMpflnH8a4Hk77_CXCuBtgg-LXlFmIEwWuFi0tncq60o8_rgow26yZ0gsNC1vVFn43JuWzdH1q69secN3ALHlru74Kr0R50R9r--B8IyKfIiHcV0k0IChQBTUkedEkA.CyhZiLPw6emqJaN_.3-dEXnde5rIKz7ZdlzuZS4nKbHitLjMntJYhiJyBhKiuLIXtqyaODEXAwhYAsGBHimJfxNWbrGEPtMxuYhET4jiQikN9Ku6Ym0goK8ho1Qz9y15bAUMbt4iYFL1DeFdkh8h4So4.Z7XYrUjYLj-4Y20Eat5SOQ
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="ie=edge" http-equiv="x-ua-compatible"/>
+	<meta name="csrf-token" content="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZXh0IjoiaGltYW5zaHUyOCIsInR5cGUiOiJjc3JmIn0.pLKXeweoDNDPhgeQJux-48UZG25pD_1PgtuGcXoug4E" />
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+  <link href="/static/app.css" rel="stylesheet"/>
+  <link href="/static/favicon.ico" rel="icon" type="image/x-icon"/>
+</head>
+<body>
+<div id="app"></div>
+<script>
+  window.STATE_FROM_SERVER={"csrf":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZXh0IjoiaGltYW5zaHUyOCIsInR5cGUiOiJjc3JmIn0.pLKXeweoDNDPhgeQJux-48UZG25pD_1PgtuGcXoug4E","user":{"id":5,"login":"himanshu28","email":"himanshu@wizni.com","avatar_url":"https://avatars.githubusercontent.com/u/1320815?v=3","active":false}};
+</script>
+<script src="https://code.getmdl.io/1.1.3/material.min.js"></script>
+<script src="/static/app.js"></script>
+</body>
+</html>
